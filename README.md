@@ -20,8 +20,3 @@ For installing the extension follow the same process as the <a href='http://bom.
 <a href='http://bom.ciens.ucv.ve/old_site/MOB/MOB-quickguide.pdf'>Download the Quick guide</a>
 
 Dataset: <a href='http://bom.ciens.ucv.ve/evaluation/dataset-info/'>Web pages sources</a> (in <a href='https://addons.mozilla.org/en-US/firefox/addon/scrapbook/'>ScrapBook</a> firefox extension format)
-
-
-
-
-
